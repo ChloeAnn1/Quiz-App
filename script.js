@@ -103,7 +103,7 @@ const questions = [
   },
 
   {
-    question: 'What is 30 minutes after 1:30',
+    question: 'What is 30 minutes after 1:30?',
     answers: [
       {text: '12:30', correct: false},
       {text: '1:45', correct: false},
